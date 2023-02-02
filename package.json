@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "three": "0.134.0"
+  },
+  "main": "/src/index.js",
+  "devDependencies": {}
+}
